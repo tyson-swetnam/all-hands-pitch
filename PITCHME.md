@@ -44,8 +44,10 @@
 @fa[quote-left quote-graphql](What are the intended outcomes?)
 @snapend
 
-@snap[south span-100 text-center font-montserrat text-white]
+@snap[south-west span-50 text-center font-montserrat text-white]
 @box[](Results 1. # New organizations will find and (re)use CyVerse resources via QUBES)
-@box[](Results 2. # Train-the-trainers approach will drive increased usage, new collaborations)
 @snapend
+@snap[south-east span-50 text-center font-montserrat text-white]
+@box[](Results 2. # Train-the-trainers approach will drive increased usage, new collaborations)
+
 
