@@ -15,7 +15,7 @@
 
 @snap[west span-40 text-center font-cabin text-blue]
 @fa[quote-left quote-graphql](Why is this important?)
-<img src="https://media.giphy.com/media/H4zeDO4ocDYqY/giphy.gif" height="200">
+<img src="https://media.giphy.com/media/xTiQyKnqAjwCJ2vdUQ/giphy.gif" height="200">
 @snapend
 
 @snap[east span-40 text-08 font-montserrat fragment]
@@ -28,6 +28,7 @@
 
 @snap[east span-40 text-center font-cabin text-white]
 @fa[quote-left quote-graphql](How will this be accomplished?)
+<img src="https://media.giphy.com/media/l0O9y4U1Ju9TEmTZK/giphy.gif" height="200">
 @snapend
 
 @snap[north-west span-40 text-08 font-montserrat]
@@ -44,6 +45,7 @@
 
 @snap[north span-100 text-center font-cabin text-blue]
 @fa[quote-left quote-graphql](What are the intended outcomes?)
+<img src="https://media.giphy.com/media/xTiQyqOfjVs9qDHtqE/giphy.gif" height="200">
 @snapend
 
 @snap[south-west span-30 text-center fragment font-montserrat text-white]
@@ -55,4 +57,4 @@
 @snapend
 
 @snap[south-east span-30 text-center fragment font-montserrat text-white]
-@box[](Results 3. # Train-the-trainers approach, with documentation)
+@box[](Results 3. # Train-the-trainers approach, documentation)
