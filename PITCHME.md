@@ -4,19 +4,19 @@
 
 <img src="/assets/imagery/Learningcenter_white.png" height="175">
 
-+++
+---?color=linear-gradient(100deg, white 50%, #567AD2 50%)
 
-@snap[midpoint span-33]
-#### Why is this important?
-<img src="/assets/imagery/cyverse_cmyk.png" height="100">
+@snap[west span-50 text-center]
+@fa[quote-left quote-graphql](Why is this important?)
+![GRAPHQL](/assets/imagery/cyverse_cmyk.png" height="100")
 @snapend
 
-@snap[north-west span-33]
-<span style="font-size: 100%; color:#FFFF00"> → Participation in CyVerse indirectly drives our funding </span> <!-- .element: class="fragment" -->
+@snap[north-east span-33 text-center]
+@box[](Reason 1. # Participation in CyVerse indirectly drives our funding)
 @snapend
 
-@snap[south-west span-33]
-<span style="font-size: 100%; color:#FFFF00"> → FOSS & Container Camp participation are limited to researchers with the $$$ ability to travel and take 3-7 days out of their already busy schedules </span> <!-- .element: class="fragment" -->
+@snap[south-east span-33 text-center]
+@box[](Reason 2. # FOSS & Container Camp participation are limited to researchers with the $$$ ability to travel and take 3-7 days out of their already busy schedules)
 @snapend
 
 +++
