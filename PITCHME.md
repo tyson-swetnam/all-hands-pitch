@@ -6,14 +6,18 @@
 
 +++
 
+@snap[midpoint span-33]
 #### Why is this important?
+<img src="/assets/imagery/cyverse_cmyk.png" height="100">
+@snapend
 
+@snap[north-west span-33]
 <span style="font-size: 100%; color:#FFFF00"> → Participation in CyVerse indirectly drives our funding </span> <!-- .element: class="fragment" -->
+@snapend
 
+@snap[south-west span-33]
 <span style="font-size: 100%; color:#FFFF00"> → FOSS & Container Camp participation are limited to researchers with the $$$ ability to travel and take 3-7 days out of their already busy schedules </span> <!-- .element: class="fragment" -->
-
-<img src="/assets/imagery/cyverse_cmyk.png" height="175">
-
+@snapend
 
 +++
 
