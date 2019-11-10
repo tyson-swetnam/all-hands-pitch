@@ -7,7 +7,7 @@
 ---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
 
 @snap[west span-40 text-center font-righteous text-blue]
-@fa[quote-left quote-graphql](Why is this important?)
+@fa[quote quote-graphql](Why is this important?)
 ![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
 @snapend
 
@@ -20,7 +20,7 @@
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
 @snap[east span-40 text-center font-righteous text-white]
-@fa[quote-right quote-graphql](How will this be accomplished?)
+@fa[quote quote-graphql](How will this be accomplished?)
 @snapend
 
 @snap[north-west span-40 text-08 font-montserrat]
@@ -28,9 +28,9 @@
 @snapend
 
 @snap[south-west span-40 text-08 fragment font-montserrat text-blue]
-@box[](Task 2. # 411 outreach to drive applications)
-@box[](Task 3. # Science Team reviews applications and sends acceptance notifications)
-@box[](Task 4. # Semester (14-16 weeks), Bi-Weekly Zoom Meetings)
+@box[](Task 1. # 411 outreach to drive applications)
+@box[](Task 2. # Science Team reviews applications and sends acceptance notifications)
+@box[](Task 3. # Semester (14-16 weeks), Bi-Weekly Zoom Meetings)
 @snapend
 
 +++
