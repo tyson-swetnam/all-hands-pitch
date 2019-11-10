@@ -1,8 +1,14 @@
-#### What are you proposing?
+---?color=linear-gradient(180deg, white 50%, #567AD2 50%)
 
-## CyVerse Mentoring Network
+@snap[north span-100 text-center font-righteous text-blue]
+@fa[quote-left quote-graphql quote-right](What are you proposing?)
+![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
+@snapend
 
-<img src="/assets/imagery/Learningcenter_white.png" height="175">
+@snap[south span-100 text-center font-righteous text-blue]
+@fa[quote quote-graphql](# CyVerse Mentoring Network)
+![GRAPHQL](/assets/imagery/Learningcenter_white.png)
+@snapend
 
 ---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
 
