@@ -1,6 +1,6 @@
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
-@snap[north span-100 text-center font-righteous text-blue]
+@snap[north span-100 text-center font-cabin text-blue]
 @fa[quote-left quote-graphql quote-right](What are you proposing?)
 ![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
 @snapend
