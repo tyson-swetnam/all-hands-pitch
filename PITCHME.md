@@ -24,7 +24,6 @@
 @snapend
 
 @snap[north-west span-40 text-08 font-montserrat]
-@box[](Task 1.)
 ![GRAPHQL](https://qubeshub.org/app/site/media/images/shared/logos/qubes_logo_tagline.png)
 @snapend
 
