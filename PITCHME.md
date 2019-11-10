@@ -45,13 +45,13 @@
 @fa[quote-left quote-graphql](What are the intended outcomes?)
 @snapend
 
-@snap[south-west span-30 text-center font-montserrat text-white]
+@snap[south-west span-30 text-center fragment font-montserrat text-white]
 @box[](Results 1. # New organizations join via QUBES)
 @snapend
 
-@snap[south span-30 text-center font-montserrat text-white]
+@snap[south span-30 text-center font-montserrat fragment text-white]
 @box[](Results 2. # Drive increased usage, new collaborations)
 @snapend
 
-@snap[south-east span-30 text-center font-montserrat text-white]
-@box[](Results 3. # Train-the-trainers approach)
+@snap[south-east span-30 text-center fragment font-montserrat text-white]
+@box[](Results 3. # A train-the-trainers approach)
