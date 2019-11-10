@@ -53,4 +53,4 @@
 @snapend
 
 @snap[south-east span-33 text-center font-montserrat text-white]
-@box[](Results 3. # Train-the-trainers approach expands base)
+@box[](Results 3. # Train the trainers approach)
