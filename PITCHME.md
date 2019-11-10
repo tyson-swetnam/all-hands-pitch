@@ -4,7 +4,7 @@
 
 <img src="/assets/imagery/Learningcenter_white.png" height="175">
 
----?color=linear-gradient(100deg, white 50%, #567AD2 50%)
+---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
 
 @snap[west span-40 text-center font-righteous text-blue]
 @fa[quote-left quote-graphql](Why is this important?)
@@ -16,24 +16,31 @@
 @snapend
 
 @snap[east span-40 text-08 fragment font-montserrat]
-@box[](Reason 2. # FOSS & Container Camp participation are limited to researchers with the $$$ ability to travel and take 3-7 days out of their already busy schedules)
+@box[](Reason 2. # FOSS & Container Camp limited to researchers with the $$$ to travel and 3-7 days in busy schedules)
 @snapend
 
 @snap[south-east span-40 text-08 fragment font-montserrat]
-@box[](Reason 3. # Allow busy researchers to absorb CyVerse at slower pace - more retention, deeper understanding)
+@box[](Reason 3. # Absorb CyVerse at a slower pace - more retention, deeper understanding, greater utilization)
 @snapend
 
-+++
+---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
-#### How will this be accomplished?
+@snap[east span-40 text-center font-righteous text-white]
+@fa[quote-right quote-graphql](How will this be accomplished?)
+@snapend
 
-<a href="https://qubeshub.org"></a><img src="https://qubeshub.org/app/site/media/images/shared/logos/qubes_logo_tagline.png" height="100"><!-- .element: class="fragment" -->
+@snap[north-west span-40 text-08 fragment font-montserrat]
+![GRAPHQL](https://qubeshub.org/app/site/media/images/shared/logos/qubes_logo_tagline.png)
+@snapend
 
-<span style="font-size: 100%; color:#FFFF00"> → 411 outreach to drive applications </span> <!-- .element: class="fragment" -->
+@snap[west span-40 text-08 fragment font-montserrat]
+@box[](Task 2. # 411 outreach to drive applications)
+@box[](Task 3. # Science Team reviews applications and sends acceptance notifications)
+@snapend
 
-<span style="font-size: 100%; color:#FFFF00"> → Science Team reviews applications and sends acceptance notifications </span> <!-- .element: class="fragment" -->
-
-<span style="font-size: 100%; color:#FFFF00"> → Semester (14-16 weeks), Bi-Weekly Zoom Meetings </span> <!-- .element: class="fragment" -->
+@snap[south-west span-40 text-08 fragment font-montserrat]
+@box[](Task 4. # Semester (14-16 weeks), Bi-Weekly Zoom Meetings)
+@snapend
 
 +++
 
