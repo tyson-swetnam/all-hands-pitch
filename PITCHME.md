@@ -11,12 +11,16 @@
 ![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
 @snapend
 
-@snap[north-east span-40 text-08]
-@box[](Reason 1. # Participation in CyVerse indirectly drives our funding)
+@snap[north-east span-40 text-08 fragment]
+@box[](Reason 1. # Data intensive scientific discovery takes time)
 @snapend
 
-@snap[south-east span-40 text-08]
+@snap[east span-40 text-08 fragment]
 @box[](Reason 2. # FOSS & Container Camp participation are limited to researchers with the $$$ ability to travel and take 3-7 days out of their already busy schedules)
+@snapend
+
+@snap[north-east span-40 text-08 fragment]
+@box[](Reason 3. # Allow busy researchers to absorb CyVerse at slower pace - more retention, deeper understanding)
 @snapend
 
 +++
