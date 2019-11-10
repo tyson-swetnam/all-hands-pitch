@@ -1,12 +1,12 @@
----?color=linear-gradient(270deg, blue 50%, #567AD2 50%)
+---?color=linear-gradient(180deg, blue 50%, #567AD2 50%)
 
 @snap[north span-100 text-center font-righteous text-white]
 @fa[quote-left quote-graphql quote-right](What are you proposing?)
 ![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
 @snapend
 
-@snap[south span-100 text-center font-righteous text-blue]
-@fa[quote-left quote-graphql](# CyVerse Mentoring Network)
+@snap[south span-100 text-center font-righteous text-white]
+@fa[quote-graphql](CyVerse Mentoring Network)
 ![GRAPHQL](/assets/imagery/Learningcenter_white.png)
 @snapend
 
