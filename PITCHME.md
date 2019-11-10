@@ -14,10 +14,9 @@
 
 @snap[west span-40 text-center font-righteous text-blue]
 @fa[quote-left quote-graphql](Why is this important?)
-![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
 @snapend
 
-@snap[east span-40 text-08 font-montserrat]
+@snap[east span-40 text-08 font-montserrat fragment]
 @box[](Reason 1. # Data intensive scientific discovery takes time)
 @box[](Reason 2. # FOSS & Container Camp limited to researchers with the $$$ to travel and 3-7 days in busy schedules)
 @box[](Reason 3. # Absorb CyVerse at a slower pace - more retention, deeper understanding, greater utilization)
@@ -39,14 +38,13 @@
 @box[](Task 3. # Semester (14-16 weeks), Bi-Weekly Zoom Meetings)
 @snapend
 
----?color=linear-gradient(180deg, white 50%, #567AD2 50%)
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
-
-@snap[north span-100 text-center font-righteous text-white]
+@snap[north span-100 text-center font-righteous text-blue]
 @fa[quote-left quote-graphql](What are the intended outcomes?)
 @snapend
 
-@snap[south span-100 text-center font-righteous text-blue]
+@snap[south span-100 text-center font-montserrat text-white]
 @box[](Results 1. # New organizations will find and (re)use CyVerse resources via QUBES)
 @box[](Results 2. # Train-the-trainers approach will drive increased usage, new collaborations)
 @snapend
