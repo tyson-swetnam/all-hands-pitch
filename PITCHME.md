@@ -19,8 +19,7 @@
 
 #### How will this be accomplished?
 
-<span style="font-size: 100%; color:#FFFF00"> → QUBES Hub </span> <a href="https://qubeshub.org"></a>
-<img src="https://qubeshub.org/app/site/media/images/billboards/qubes_logo_web_200x200.png" height="200"><!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → QUBES Hub </span> <a href="https://qubeshub.org"></a><img src="https://qubeshub.org/app/site/media/images/billboards/qubes_logo_web_200x200.png" height="50"><!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> → 411 outreach to drive applications </span> <!-- .element: class="fragment" -->
 
