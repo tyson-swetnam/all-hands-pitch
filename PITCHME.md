@@ -2,7 +2,7 @@
 
 ## CyVerse Mentoring Network
 
-<img src="/assets/imagery/Learning_center_white.png" height="175">
+<img src="/assets/imagery/Learningcenter_white.png" height="175">
 
 +++
 
