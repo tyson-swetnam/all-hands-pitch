@@ -7,7 +7,8 @@
 
 @snap[south span-100 text-center font-montserrat text-white]
 @fa[quote-graphql](CyVerse Mentoring Network)
-@fab[windows fa-sm] @fab[r-project fa-sm] @fab[python fa-sm] @fab[docker fa-sm] @fab[slack fa-sm] @fab[apple fa-sm]  @fab[github fa-sm] @fab[linux fa-sm] @fab[ubuntu fa-sm] @fab[centos fa-sm] @fab[rebel fa-sm] @fab[confluence fa-sm] @fab[jenkins fa-sm] @fab[orcid fa-sm] @fab[empire fa-sm] @fab[meetup fa-sm] @fab[rtwitte fa-sm] @fab[stack-overflow fa-sm] 
+@fab[windows fa-sm] @fab[r-project fa-sm] @fab[python fa-sm] @fab[docker fa-sm] @fab[slack fa-sm] @fab[apple fa-sm]  @fab[github fa-sm] @fab[linux fa-sm] @fab[ubuntu fa-sm] @fab[centos fa-sm] 
+@fab[rebel fa-sm] @fab[confluence fa-sm] @fab[jenkins fa-sm] @fab[orcid fa-sm] @fab[empire fa-sm] @fab[meetup fa-sm] @fab[rtwitte fa-sm] @fab[stack-overflow fa-sm] 
 @snapend
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
