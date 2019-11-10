@@ -15,6 +15,7 @@
 
 @snap[west span-40 text-center font-cabin text-blue]
 @fa[quote-left quote-graphql](Why is this important?)
+<img src="https://media.giphy.com/media/H4zeDO4ocDYqY/giphy.gif" height="200">
 @snapend
 
 @snap[east span-40 text-08 font-montserrat fragment]
