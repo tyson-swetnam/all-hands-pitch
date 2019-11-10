@@ -6,16 +6,16 @@
 
 ---?color=linear-gradient(100deg, white 50%, #567AD2 50%)
 
-@snap[west span-50 text-center]
+@snap[west span-40 text-center]
 @fa[quote-left quote-graphql](Why is this important?)
-![GRAPHQL](/assets/imagery/cyverse_cmyk.png" height="100")
+![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
 @snapend
 
-@snap[north-east span-33 text-center]
+@snap[north-east span-40 text-08]
 @box[](Reason 1. # Participation in CyVerse indirectly drives our funding)
 @snapend
 
-@snap[south-east span-33 text-center]
+@snap[south-east span-40 text-08]
 @box[](Reason 2. # FOSS & Container Camp participation are limited to researchers with the $$$ ability to travel and take 3-7 days out of their already busy schedules)
 @snapend
 
