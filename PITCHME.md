@@ -11,15 +11,9 @@
 ![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
 @snapend
 
-@snap[north-east span-40 text-08 fragment font-montserrat]
+@snap[east span-40 text-08 font-montserrat]
 @box[](Reason 1. # Data intensive scientific discovery takes time)
-@snapend
-
-@snap[east span-40 text-08 fragment font-montserrat]
 @box[](Reason 2. # FOSS & Container Camp limited to researchers with the $$$ to travel and 3-7 days in busy schedules)
-@snapend
-
-@snap[south-east span-40 text-08 fragment font-montserrat]
 @box[](Reason 3. # Absorb CyVerse at a slower pace - more retention, deeper understanding, greater utilization)
 @snapend
 
@@ -29,16 +23,14 @@
 @fa[quote-right quote-graphql](How will this be accomplished?)
 @snapend
 
-@snap[north-west span-40 text-08 fragment font-montserrat]
+@snap[north-west span-40 text-08 font-montserrat]
+@box[](Task 1.)
 ![GRAPHQL](https://qubeshub.org/app/site/media/images/shared/logos/qubes_logo_tagline.png)
 @snapend
 
-@snap[west span-40 text-08 fragment font-montserrat]
+@snap[south-west span-40 text-08 fragment font-montserrat text-blue]
 @box[](Task 2. # 411 outreach to drive applications)
 @box[](Task 3. # Science Team reviews applications and sends acceptance notifications)
-@snapend
-
-@snap[south-west span-40 text-08 fragment font-montserrat]
 @box[](Task 4. # Semester (14-16 weeks), Bi-Weekly Zoom Meetings)
 @snapend
 
