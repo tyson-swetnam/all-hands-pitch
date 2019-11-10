@@ -12,7 +12,7 @@
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
-@snap[west span-40 text-center font-righteous text-blue]
+@snap[west span-40 text-center font-cabin text-blue]
 @fa[quote-left quote-graphql](Why is this important?)
 @snapend
 
@@ -24,7 +24,7 @@
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
-@snap[east span-40 text-center font-righteous text-white]
+@snap[east span-40 text-center font-cabin text-white]
 @fa[quote-left quote-graphql](How will this be accomplished?)
 @snapend
 
@@ -40,7 +40,7 @@
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
-@snap[north span-100 text-center font-righteous text-blue]
+@snap[north span-100 text-center font-cabin text-blue]
 @fa[quote-left quote-graphql](What are the intended outcomes?)
 @snapend
 
@@ -53,4 +53,4 @@
 @snapend
 
 @snap[south-east span-33 text-center font-montserrat text-white]
-@box[](Results 3. # Train-the-trainers approach)
+@box[](Results 3. # Train-the-trainers approach expands base)
