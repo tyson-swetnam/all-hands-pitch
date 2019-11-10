@@ -7,7 +7,7 @@
 
 @snap[south span-100 text-center font-montserrat text-white]
 @fa[quote-graphql](CyVerse Mentoring Network)
-![GRAPHQL](/assets/imagery/Learningcenter_white.png)
+@fab[r-project fa-xs]@fab[python fa-xs]@fab[docker fa-xs]@fab[slack fa-xs]@fab[github fa-xs]
 @snapend
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
@@ -44,13 +44,13 @@
 @fa[quote-left quote-graphql](What are the intended outcomes?)
 @snapend
 
-@snap[south-west span-33 text-center font-montserrat text-white]
+@snap[south-west span-30 text-center font-montserrat text-white]
 @box[](Results 1. # New organizations join via QUBES)
 @snapend
 
-@snap[south span-33 text-center font-montserrat text-white]
+@snap[south span-30 text-center font-montserrat text-white]
 @box[](Results 2. # Drive increased usage, new collaborations)
 @snapend
 
-@snap[south-east span-33 text-center font-montserrat text-white]
-@box[](Results 3. # Train the trainers approach)
+@snap[south-east span-30 text-center font-montserrat text-white]
+@box[](Results 3. # Train-the-trainers approach)
