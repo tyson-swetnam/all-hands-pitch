@@ -28,7 +28,7 @@
 
 @snap[east span-40 text-center font-cabin text-white]
 @fa[quote-left quote-graphql](How will this be accomplished?)
-<img src="https://media.giphy.com/media/l0O9y4U1Ju9TEmTZK/giphy.gif" height="200">
+<img src="https://media.giphy.com/media/xTiQyqOfjVs9qDHtqE/giphy.gif" height="200">
 @snapend
 
 @snap[north-west span-40 text-08 font-montserrat]
@@ -46,7 +46,7 @@
 
 @snap[north span-100 text-center font-cabin text-blue]
 @fa[quote-left quote-graphql](What are the intended outcomes?)
-<img src="https://media.giphy.com/media/xTiQyqOfjVs9qDHtqE/giphy.gif" height="200">
+<img src="http://giphygifs.s3.amazonaws.com/media/lTezoaox1LnxK/giphy.gif" height="200">
 @snapend
 
 @snap[south-west span-30 text-center fragment font-montserrat text-white]
