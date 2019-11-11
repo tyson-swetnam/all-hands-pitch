@@ -57,7 +57,7 @@
 
 @snap[north span-100 text-center font-cabin text-blue]
 @fa[quote-left quote-graphql](What are the intended outcomes?)
-<img src="http://giphygifs.s3.amazonaws.com/media/lTezoaox1LnxK/giphy.gif" height="200">
+<img src="https://media.giphy.com/media/2SRvACIOCEOys/giphy.gif" height="200">
 @snapend
 
 @snap[south-west span-30 text-center fragment font-montserrat text-white]
