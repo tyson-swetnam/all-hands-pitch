@@ -27,7 +27,7 @@
 @snapend
 
 @snap[south-east span-40 text-08 fragment font-montserrat fragment]
-@box[](Reason 3. # Absorb CyVerse at a slower pace - more retention, deeper understanding, greater utilization)
+@box[](Reason 3. # More retention, deeper understanding, greater utilization)
 @snapend
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
