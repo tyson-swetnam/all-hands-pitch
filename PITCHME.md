@@ -68,13 +68,13 @@
 @snapend
 
 @snap[south-west span-30 text-center fragment font-montserrat text-white]
-@box[](Impact 1. # Expand enrollment of the CyVerse Learning Institute)
+@box[](Impact 1. # Expand enrollment of Learning Institute)
 @snapend
 
 @snap[south span-30 text-center font-montserrat fragment text-white]
-@box[](Impact 2. # ↔ research base = ↑ grant inclusions)
+@box[](Impact 2. # ↔ research base ↑ grant inclusions)
 @snapend
 
 @snap[south-east span-30 text-center fragment font-montserrat text-white]
-@box[](Impact 3. # Access to information is all we need to be successful)
+@box[](Impact 3. # *Access to information is all we need to be successful*)
 @snapend
