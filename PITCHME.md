@@ -18,9 +18,15 @@
 <img src="https://media.giphy.com/media/xTiQyKnqAjwCJ2vdUQ/giphy.gif" height="200">
 @snapend
 
-@snap[east span-40 text-08 fragment font-montserrat fragment]
+@snap[north-east span-40 text-08 fragment font-montserrat fragment]
 @box[](Reason 1. # Data intensive scientific discovery takes time)
+@snapend
+
+@snap[east span-40 text-08 fragment font-montserrat fragment]
 @box[](Reason 2. # FOSS & Container Camp limited to researchers with the $$$ to travel and 3-7 days in busy schedules)
+@snapend
+
+@snap[south-east span-40 text-08 fragment font-montserrat fragment]
 @box[](Reason 3. # Absorb CyVerse at a slower pace - more retention, deeper understanding, greater utilization)
 @snapend
 
