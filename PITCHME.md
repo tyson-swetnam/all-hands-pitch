@@ -18,7 +18,7 @@
 <img src="https://media.giphy.com/media/xTiQyKnqAjwCJ2vdUQ/giphy.gif" height="200">
 @snapend
 
-@snap[east span-40 text-08 font-montserrat fragment]
+@snap[east span-40 text-08 fragment font-montserrat fragment]
 @box[](Reason 1. # Data intensive scientific discovery takes time)
 @box[](Reason 2. # FOSS & Container Camp limited to researchers with the $$$ to travel and 3-7 days in busy schedules)
 @box[](Reason 3. # Absorb CyVerse at a slower pace - more retention, deeper understanding, greater utilization)
@@ -35,9 +35,15 @@
 ![GRAPHQL](https://qubeshub.org/app/site/media/images/shared/logos/qubes_logo_tagline.png)
 @snapend
 
-@snap[south-west span-40 text-08 fragment font-montserrat text-blue]
+@snap[north-west span-40 text-08 fragment font-montserrat text-blue]
 @box[](Task 1. # 411 outreach, enrollment, Science Team reviews applicants n > 40)
+@snapend
+
+@snap[west span-40 text-08 fragment font-montserrat text-blue]
 @box[](Task 2. # Semester long (14-16 weeks), Bi-Weekly, Zoom Meetings)
+@snapend
+
+@snap[south-west span-40 text-08 fragment font-montserrat text-blue]
 @box[](Task 3. # Final Projects → publications, courses, data sets, DE tools & apps)
 @snapend
 
@@ -49,15 +55,15 @@
 @snapend
 
 @snap[south-west span-30 text-center fragment font-montserrat text-white]
-@box[](Results 1. # New organizations join via QUBES)
+@box[](Result 1. # New organizations join via QUBES)
 @snapend
 
 @snap[south span-30 text-center font-montserrat fragment text-white]
-@box[](Results 2. # Drive increased usage, new collaborations)
+@box[](Result 2. # Drive increased usage, new collaborations)
 @snapend
 
 @snap[south-east span-30 text-center fragment font-montserrat text-white]
-@box[](Results 3. # Train-the-trainers approach, documentation)
+@box[](Result 3. # Train-the-trainers approach, documentation)
 @snapend
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
