@@ -58,3 +58,4 @@
 
 @snap[south-east span-30 text-center fragment font-montserrat text-white]
 @box[](Results 3. # Train-the-trainers approach, documentation)
+@snapend
