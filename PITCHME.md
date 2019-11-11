@@ -36,10 +36,9 @@
 @snapend
 
 @snap[south-west span-40 text-08 fragment font-montserrat text-blue]
-@box[](Task 1. # 411 outreach to encourage enrollment)
-@box[](Task 2. # Science Team reviews applicants if n > 40)
-@box[](Task 3. # Semester long (14-16 weeks), Bi-Weekly, Zoom Meetings)
-@box[](Task 4. # Final Projects → publications, courses, data sets, DE tools & apps)
+@box[](Task 1. # 411 outreach, enrollment, Science Team reviews applicants n > 40)
+@box[](Task 2. # Semester long (14-16 weeks), Bi-Weekly, Zoom Meetings)
+@box[](Task 3. # Final Projects → publications, courses, data sets, DE tools & apps)
 @snapend
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
