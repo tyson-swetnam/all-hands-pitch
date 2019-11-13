@@ -19,7 +19,7 @@
 @snapend
 
 @snap[north-east span-40 text-08 fragment font-montserrat fragment]
-@box[](Reason 1. # Data intensive scientific discovery takes time)
+@box[](Reason 1. # Taking on big data is not like bullseying womp rats)
 @snapend
 
 @snap[east span-40 text-08 fragment font-montserrat fragment]
@@ -27,7 +27,7 @@
 @snapend
 
 @snap[south-east span-40 text-08 fragment font-montserrat fragment]
-@box[](Reason 3. # More retention, deeper understanding, greater utilization)
+@box[](Reason 3. # Building up the skills takes time)
 @snapend
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
@@ -50,7 +50,7 @@
 @snapend
 
 @snap[south-west span-40 text-08 fragment font-montserrat text-blue]
-@box[](Task 3. # Final Projects → publications, courses, data sets, DE tools & apps)
+@box[](Task 3. # Train-the-trainers approach, documentation)
 @snapend
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
@@ -61,15 +61,15 @@
 @snapend
 
 @snap[south-west span-30 text-center fragment font-montserrat text-white]
-@box[](Result 1. # New organizations join via QUBES)
+@box[](Result 1. # New organizations join, collaborations via QUBES)
 @snapend
 
 @snap[south span-30 text-center font-montserrat fragment text-white]
-@box[](Result 2. # Drive increased usage, new collaborations)
+@box[](Result 2. # Final Projects → publications, courses, data sets, DE tools & apps)
 @snapend
 
 @snap[south-east span-30 text-center fragment font-montserrat text-white]
-@box[](Result 3. # Train-the-trainers approach, documentation)
+@box[](Result 3.  # More retention, deeper understanding, greater utilization)
 @snapend
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
