@@ -73,10 +73,9 @@
 @snapend
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
-
 @snap[north span-100 text-center font-cabin text-blue]
 @fa[quote-left quote-graphql](How would a Mentoring Network advance CyVerse and Science in general?)
-<img src="https://media.giphy.com/media/3og0IMJcSI8p6hYQXS/giphy.gif" height="200">
+<img src="https://media.giphy.com/media/HReeuHOl360eY/giphy.gif" height="200">
 @snapend
 
 @snap[south-west span-30 text-center fragment font-montserrat text-white]
@@ -89,4 +88,6 @@
 
 @snap[south-east span-30 text-center fragment font-montserrat text-white]
 @box[](Impact 3. # *Access to information is all we need to be successful*)
+snap[north-east span-30 fragment]
+<img src="https://media.giphy.com/media/3og0IMJcSI8p6hYQXS/giphy.gif" height="200">
 @snapend
