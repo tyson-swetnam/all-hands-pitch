@@ -60,15 +60,15 @@
 <img src="https://media.giphy.com/media/2SRvACIOCEOys/giphy.gif" height="200">
 @snapend
 
-@snap[south-west span-30 text-center fragment font-montserrat text-white]
+@snap[south-west span-30 text-center fragment font-montserrat text-white text-08]
 @box[](Result 1. # New organizations join, collaborations via QUBES)
 @snapend
 
-@snap[south span-30 text-center font-montserrat fragment text-white]
+@snap[south span-30 text-center font-montserrat fragment text-white text-08]
 @box[](Result 2. # Final Projects → publications, courses, data sets, DE tools & apps)
 @snapend
 
-@snap[south-east span-30 text-center fragment font-montserrat text-white]
+@snap[south-east span-30 text-center fragment font-montserrat text-white text-08]
 @box[](Result 3.  # More retention, deeper understanding, greater utilization)
 @snapend
 
