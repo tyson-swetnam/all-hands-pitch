@@ -87,7 +87,6 @@
 @snapend
 
 @snap[south-east span-30 text-center fragment font-montserrat text-white]
-@box[](Impact 3. # *Access to information is all we need to be successful*)
-@snap[north-east span-30 fragment]
 <img src="https://media.giphy.com/media/3og0IMJcSI8p6hYQXS/giphy.gif" height="200">
+@box[](Impact 3. # *Access to information is all we need to be successful*)
 @snapend
